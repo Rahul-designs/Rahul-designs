@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/_rahul_siva" target="blank"><img src="https://img.shields.io/twitter/follow/_rahul_siva?logo=twitter&style=for-the-badge" alt="_rahul_siva" /></a> </p>
 
-- 🔭 I’m currently working on **Surya Shopping Center(A Consultancy Project for Online E-cart website creation)**
-
-- 🌱 I’m currently learning **React , React Native , node js**
 
 - 📫 How to reach me **raghulsiva2018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-IgCZbBK8kLteQtKDT-BRmtL0oI6p0YY?usp=sharing](https://drive.google.com/drive/folders/1-IgCZbBK8kLteQtKDT-BRmtL0oI6p0YY?usp=sharing)
+- 📄 Know about my experiences [https://www.dropbox.com/s/7yq8f1tnk9urofb/Raghul%20S%28CSE%29%20.pdf?dl=0](https://www.dropbox.com/s/7yq8f1tnk9urofb/Raghul%20S%28CSE%29%20.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
